@@ -1,4 +1,3 @@
-#akshayalechu1999@gmail.com ni8W6Mh36@ryPw
 Feature: User Login
 
   Scenario: Successful login with valid credentials
