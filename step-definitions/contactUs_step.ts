@@ -45,7 +45,7 @@ When('the user clicks on the Submit button',
     async function(this:CustomWorld){
         const contactPage = new ContactUs_page(this.page)
         await contactPage.ClickSubmit();
-        console.log("Submit Button clicked")
+        console.log("Submit button clicked")
     }
     );
 
